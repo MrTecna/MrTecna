@@ -15,5 +15,5 @@
 
 ## 🎬 Currently Learning
 
-- Adobe After Effects  
-- Adobe Premiere Pro
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9900FF?style=for-the-badge&logo=adobe&logoColor=white)
